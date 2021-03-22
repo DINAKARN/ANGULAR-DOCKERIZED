@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TEST-ANGULAR"
+    }
+  },
+  "defaultProject": "TEST-ANGULAR",
+  "cli": {
+    "analytics": false
+  }
 }
